@@ -1,0 +1,7 @@
+/VOCdevkit/VOC2007/JPEGImages
+/VOCdevkit/VOC2007/Annotations
+/results
+/model_data/*.pth
+/input/ground-truth
+/input/detection-results
+/VOCdevkit - Copy
